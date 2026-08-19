@@ -1,0 +1,23 @@
+guia para descargar e instalar ubuntu 
+descargar la virtual box
+descargar ubuntu(ISO)
+ejecutar la virutal box
+instalar unbuntu en la virtual box
+poner el nombre de la iso en virtual box
+configurar la ram dada a esta misma(6 gb en este caso)
+configurar el almacenamiento (30 gb en este caso)
+configurar el numero de cpus( 5 cpus)
+se instalo y al momentode instalar se trabo
+cargo la pantalla y estuvimos en escritorio
+guia para instalar github y visual code basic 
+descargar el visual code basic
+dar clic en la pestaña de ¨control de codigo fuente¨ 
+en caso de no tener descargado tambien descargar github (en este caso al ser AMD se tiene que descargar la version ARM, pero por cuestiones desconocidas no se podia instalar, a pesar de que se ejecuto como administrador y aplicando propiedades, asi que se descargo la version x la cual es para intel, pero si se pudo ejecutar)
+inciamos sesion en github
+creamos el repositorio 
+cerramos el visual code basic y lo volvimos abrir
+creamos la pestaña de practica ¨01-practica¨
+abrimos la pestaña ¨ejecucion y depuracion¨ 
+dar click en la casilla ¨ejecucion y depuracion¨
+salio error y tuvimos que quitar el modo seguro 
+
